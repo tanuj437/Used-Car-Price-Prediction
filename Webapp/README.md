@@ -11,6 +11,10 @@ The model used in this web app is a pre-trained Ridge Regression model, which ha
 
 
 
+https://github.com/user-attachments/assets/b672ae69-ee43-43c8-be83-5b6c45558a43
+
+
+
 
 ## How to Run the Web App
 
