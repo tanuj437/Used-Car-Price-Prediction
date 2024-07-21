@@ -43,6 +43,11 @@ In this car price prediction project, various models were evaluated to find the 
 ## 📈 Performance of the Models
 The models were evaluated using mean absolute error (MAE), mean squared error (MSE), root mean squared error (RMSE), and R-squared (R2) score. Detailed performance metrics for each model are included in the Jupyter Notebook.
 
+<img width="146" alt="RMSE_cmp" src="https://github.com/user-attachments/assets/b80bd458-93d5-4108-a447-c9dfa7ef75ee">
+<img width="150" alt="R2_cmp" src="https://github.com/user-attachments/assets/c9d3824f-6c49-437d-9a42-333206f30800">
+<img width="139" alt="MSE_cmp" src="https://github.com/user-attachments/assets/e2dc0348-2baa-490b-be7a-09be09f15ffc">
+<img width="154" alt="MAE_cmp" src="https://github.com/user-attachments/assets/aba3bab7-6000-4ec0-943f-7788d03d1efd">
+
 ## 📢 Conclusion
 The car price prediction project demonstrates that various machine learning models can accurately estimate car prices based on their features. Ridge Regression was chosen as the final model for deployment in the web app.
 
